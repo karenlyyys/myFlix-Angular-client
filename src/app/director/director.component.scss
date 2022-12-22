@@ -1,0 +1,37 @@
+$bgColor: #5e68d5;
+$text: #fff;
+$boxColor: #000;
+$secondColor: #54a183;
+
+.director-dialog {
+    background-color: $secondColor;
+    margin-top: 0;
+    box-shadow: none;
+  }
+
+  .director-dialog-title {
+    color: $textColor;
+  }
+
+  .director-dialog-content {
+    color: $textColor;
+  }
+
+  .director-actions {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .director-close-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0;
+    line-height: 14px;
+    min-width: auto;
+    border: none;
+    font-size: 20px;
+    background-color: transparent;
+    cursor: pointer;
+  }

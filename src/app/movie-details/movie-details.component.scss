@@ -1,0 +1,28 @@
+$bgColor: #5e68d5;
+$text: #fff;
+$boxColor: #000;
+$secondColor: #54a183;
+
+.synopsis-dialog {
+    background-color: $cardColor;
+    margin-top: 0;
+    box-shadow: none;
+  }
+  
+  .synopsis-dialog-title {
+    color: $textColor;
+  }
+
+  .synopsis-dialog-content {
+    color: $textColor;
+  }
+
+  .summary-actions {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .summary-close-button {
+    background-color: $boxColor;
+  }
