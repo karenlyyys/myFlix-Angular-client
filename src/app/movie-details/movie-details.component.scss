@@ -3,18 +3,18 @@ $text: #fff;
 $boxColor: #000;
 $secondColor: #54a183;
 
-.synopsis-dialog {
-    background-color: $cardColor;
+.summary-dialog {
+    background-color: $bgColor;
     margin-top: 0;
     box-shadow: none;
   }
   
-  .synopsis-dialog-title {
-    color: $textColor;
+  .summary-dialog-title {
+    color: $text;
   }
 
-  .synopsis-dialog-content {
-    color: $textColor;
+  .summaryUnterminated string token-dialog-content {
+    color: $text;
   }
 
   .summary-actions {
