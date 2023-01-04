@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "home": ""
+    "home": "https://karenlyyys.github.io/myFlix-Angular-client/"
   },
   "private": true,
   "dependencies": {
